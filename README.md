@@ -57,14 +57,25 @@ Using all existing formulas already like area and circumference
 
 ### Algorithm Development 
 Import math library
+
 Input radius
+
 Compute area
+
 Compute circumference
+
 Compute square root of the area
+
 Compute rounded down area
+
 Compute rounded up area
+
 Output area to 2 decimal places
+
 Output circumference to 2 decimal places 
+
 Output square root to 2 decimal places 
+
 Output rounded down area
+
 Output rounded up area
